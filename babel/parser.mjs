@@ -1,3 +1,5 @@
+//To run this program use this command: node parser.mjs
+
 //npm install --save-dev @babel/parser
 import { convertCSV } from './csv_to_json.js';
 

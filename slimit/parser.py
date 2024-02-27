@@ -1,3 +1,5 @@
+#To run this program use this command: python parser.py
+
 #pip install slimit
 #pip install python-minifier
 #pip install js2xml
