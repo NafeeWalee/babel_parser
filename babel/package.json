@@ -1,9 +1,14 @@
 {
-  "type":"module",
+  "type": "module",
   "devDependencies": {
-    "@babel/parser": "^7.23.9"
+    "@babel/parser": "^7.24.0"
   },
   "dependencies": {
-    "csv-parser": "^3.0.0"
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.24.0",
+    "@babel/preset-env": "^7.24.0",
+    "@babel/traverse": "^7.24.0",
+    "csv-parser": "^3.0.0",
+    "xmlbuilder": "^15.1.1"
   }
 }
